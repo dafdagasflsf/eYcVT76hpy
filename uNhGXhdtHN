@@ -1,0 +1,1798 @@
+[
+  {
+    "method": "get",
+    "page": "https://www.roscongressclub.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://www.roscongressclub.ru/news/"
+  },
+  {
+    "method": "get",
+    "page": "https://rc-art.roscongress.org/"
+  },
+  {
+    "method": "get",
+    "page": "https://time4photo.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://time4photo.ru/signin"
+  },
+  {
+    "method": "get",
+    "page": "https://time4photo.ru/search/%D1%80%D1%83"
+  },
+  {
+    "method": "get",
+    "page": "https://time4photo.ru/search/%D0%B0"
+  },
+  {
+    "method": "get",
+    "page": "https://veb.ru/en/"
+  },
+  {
+    "method": "get",
+    "page": "https://veb.ru/en/investors/"
+  },
+  {
+    "method": "get",
+    "page": "https://veb.ru/en/press-center/"
+  },
+  {
+    "method": "get",
+    "page": "https://veb.ru/en/search/?q=ru"
+  },
+  {
+    "method": "get",
+    "page": "https://status-priority.com/"
+  },
+  {
+    "method": "get",
+    "page": "https://forbusiness.roscongress.org/"
+  },
+  {
+    "method": "get",
+    "page": "https://russiacb.com/"
+  },
+  {
+    "method": "get",
+    "page": "https://russiacb.com/events/"
+  },
+  {
+    "method": "get",
+    "page": "https://russiacb.com/events/?start_date=2000-03-06&end_date=2022-06-01"
+  },
+  {
+    "method": "get",
+    "page": "https://online.russiacb.com/auth/"
+  },
+  {
+    "method": "get",
+    "page": "https://online.russiacb.com/auth/restore/"
+  },
+  {
+    "method": "get",
+    "page": "https://www.investinregions.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://www.investinregions.ru/news/"
+  },
+  {
+    "method": "get",
+    "page": "https://www.investinregions.ru/search/?q=%D1%80%D1%83"
+  },
+  {
+    "method": "get",
+    "page": "https://atr.gov.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://atr.gov.ru/news"
+  },
+  {
+    "method": "get",
+    "page": "https://pppcenter.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://pppcenter.ru/obuchenie/"
+  },
+  {
+    "method": "get",
+    "page": "https://pppcenter.ru/search/?tags=&how=r&q=%D1%86%D0%B5%D0%BD%D1%82%D1%80"
+  },
+  {
+    "method": "get",
+    "page": "http://privetmir.ru"
+  },
+  {
+    "method": "get",
+    "page": "https://lk.frprf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://sudrf.ru/index.php?id=300"
+  },
+  {
+    "method": "get",
+    "page": "https://techportal.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://techportal.sudrf.ru/?id=421&text=%EF%EE%E8%F1%EA"
+  },
+  {
+    "method": "get",
+    "page": "http://os--brb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://psh.spb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://inzhavinsky.tmb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://tmb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://primorsky--spb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://pgvs.spb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://oblsud.tmb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://tgvs.tmb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://pichaevsky.tmb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://nvs.spb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://kln--spb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://usd.orb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://msk--spb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://nvs--spb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://iuriev-polsky.wld.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://primorsko-axtarsky.krd.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://ksl--spb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://sol-iletsky.orb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://orb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://cherepoveckygor.vld.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://nikolsky.vld.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://lnn--spb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://frn--spb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://oblsud.orb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://usd.wld.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://primorsky.spb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://kizilskiy-g--tva.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://vos--spb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://usd--tula.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://os.brb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://ulug-hemskiy.tva.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://orenburgsky.orb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://kraevoi.krd.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://kirsanovsky.tmb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://krn--spb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://michurinskygs.tmb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://vs.tva.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://ngvs.krd.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://usd.tula.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://korenovsk--krd.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://ovjurskiy.tva.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://kaa-hemskiy.tva.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://aleksandrovsky.orb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://usd.krd.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://psh--spb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://selivanovsky.wld.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://krv--spb.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://forumspb.com/en/"
+  },
+  {
+    "method": "get",
+    "page": "https://forumspb.com/en/news/"
+  },
+  {
+    "method": "get",
+    "page": "https://forumspb.com/en/partners/become-a-partner/"
+  },
+  {
+    "method": "get",
+    "page": "https://best-practices.roscongress.org/"
+  },
+  {
+    "method": "get",
+    "page": "https://forumhealth.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://forumhealth.ru/spief-2022/programme/"
+  },
+  {
+    "method": "get",
+    "page": "https://rusinvestforum.org/roscongress-club/roscongress-club/"
+  },
+  {
+    "method": "get",
+    "page": "https://rusinvestforum.org/personal-account-login/"
+  },
+  {
+    "method": "get",
+    "page": "https://rusinvestforum.org/poisk/?q=%D1%80%D1%83"
+  },
+  {
+    "method": "get",
+    "page": "https://kodeks.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://kodeks.ru/search/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B"
+  },
+  {
+    "method": "get",
+    "page": "https://kodeks.ru/search/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0?page=49"
+  },
+  {
+    "method": "get",
+    "page": "https://rcz-dnr.ru/rezultatyi-poiska.html?search=%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0&id=24"
+  },
+  {
+    "method": "get",
+    "page": "https://roscongress.org/en/"
+  },
+  {
+    "method": "get",
+    "page": "https://roscongress.org/en/news/?date=all&mindate=&maxdate=&search=&search=rus"
+  },
+  {
+    "method": "get",
+    "page": "https://roscongress.org/en/search/?q=stop"
+  },
+  {
+    "method": "get",
+    "page": "https://roscongress.org/en/blog/"
+  },
+  {
+    "method": "get",
+    "page": "https://roscongress.org/en/blog/?search=rus&date=all&mindate=&maxdate="
+  },
+  {
+    "method": "get",
+    "page": "https://roscongress.org/news/?date=all&mindate=&maxdate=&search=&search=%D1%80%D1%83"
+  },
+  {
+    "method": "get",
+    "page": "https://roscongress.org/events/"
+  },
+  {
+    "method": "get",
+    "page": "https://roscongress.org/events/?search=&search=%D1%80%D1%83"
+  },
+  {
+    "method": "get",
+    "page": "https://rcz-dnr.ru"
+  },
+  {
+    "method": "get",
+    "page": "https://innosocium.org/"
+  },
+  {
+    "method": "get",
+    "page": "https://innosocium.org/search/?q=%D1%80%D1%83&how=r"
+  },
+  {
+    "method": "get",
+    "page": "https://mailadm.glavadnr.ru/?_task=login"
+  },
+  {
+    "method": "get",
+    "page": "https://mailadm.glavadnr.ru"
+  },
+  {
+    "method": "get",
+    "page": "https://ideas.roscongress.org/"
+  },
+  {
+    "method": "get",
+    "page": "https://ideas.roscongress.org/users/sign_in"
+  },
+  {
+    "method": "get",
+    "page": "https://ideas.roscongress.org/users/auth/leader_id"
+  },
+  {
+    "method": "get",
+    "page": "https://ideas.roscongress.org/sections"
+  },
+  {
+    "method": "get",
+    "page": "http://mosopen.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://mosopen.ru/streets/letter/2"
+  },
+  {
+    "method": "get",
+    "page": "https://sudrf.cntd.ru/rospravo"
+  },
+  {
+    "method": "get",
+    "page": "https://sudrf.cntd.ru/rospravo/documents?text=%D1%81%D1%83%D0%B4&type=&accepted_by_id=&accepted_by=&accepted_date_start=&accepted_date_end=&number="
+  },
+  {
+    "method": "get",
+    "page": "https://roscongress-invest.com/"
+  },
+  {
+    "method": "get",
+    "page": "https://roscongress-invest.com/request/"
+  },
+  {
+    "method": "get",
+    "page": "https://roscongress-invest.com/services/"
+  },
+  {
+    "method": "get",
+    "page": "https://roscongress-invest.com/search/?q=%D1%80%D1%83"
+  },
+  {
+    "method": "get",
+    "page": "https://xn--b1algahcegbed6a6gqb.xn--p1ai"
+  },
+  {
+    "method": "get",
+    "page": "https://reg.roscongress.org/en/login"
+  },
+  {
+    "method": "get",
+    "page": "https://www.businesspriority.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://businesspriority.ru/accel"
+  },
+  {
+    "method": "get",
+    "page": "https://veb.ventures/ru"
+  },
+  {
+    "method": "get",
+    "page": "http://www.rosseti.ru/eng/"
+  },
+  {
+    "method": "get",
+    "page": "https://xn--h1apajh.xn--p1ai/"
+  },
+  {
+    "method": "get",
+    "page": "https://xn--h1apajh.xn--p1ai/msp/"
+  },
+  {
+    "method": "get",
+    "page": "https://xn--80aengj8j.xn--h1apajh.xn--p1ai/auth/"
+  },
+  {
+    "method": "get",
+    "page": "https://vebeng.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://vebeng.ru/projects/list/"
+  },
+  {
+    "method": "get",
+    "page": "https://vebeng.ru/search/?tags=&how=r&q=%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82&PAGEN_1=10"
+  },
+  {
+    "method": "get",
+    "page": "https://www.novatek.ru/en/"
+  },
+  {
+    "method": "get",
+    "page": "https://www.novatek.ru/ru/investors/"
+  },
+  {
+    "method": "get",
+    "page": "https://www.novatek.ru/ru/press/releases/?newsFilterFormMode_4=all"
+  },
+  {
+    "method": "get",
+    "page": "https://www.novatek.ru/ru/search/?q_4=%D1%80%D1%83"
+  },
+  {
+    "method": "get",
+    "page": "https://www.novatek.ru/en/search/index.php?source_id_4=1&sortby_4=&q_4=ru&search_page_4=1001&te_object_id_4=&items_per_page_4=10&date_from_4=&date_to_4="
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0023.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16rs0020.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0092.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16rs0022.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0093.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0111.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0021.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16rs0041.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0131.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0070.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0031.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0053.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0151.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0153.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0103.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0112.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16rs0033.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0051.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0052.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0001.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0040.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0141.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0002.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16rs0001.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16rs0050.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0140.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16rs0031.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0073.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0060.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0100.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0071.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16rs0023.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0113.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16rs0013.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0010.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16rs0012.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0020.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0142.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0163.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16rs0021.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16rs0051.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0182.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0150.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16rs0042.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0143.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0011.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://16ms0063.court-rt-equeue.tat.sudrf.ru/admin/auth"
+  },
+  {
+    "method": "get",
+    "page": "https://frprf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://corpmsp.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://corpmsp.ru/search/?q=%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81&PAGEN_1=33&SIZEN_1=15"
+  },
+  {
+    "method": "get",
+    "page": "https://bsr.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://fiop.site/"
+  },
+  {
+    "method": "get",
+    "page": "https://fiop.site/press-tsentr/"
+  },
+  {
+    "method": "get",
+    "page": "https://fiop.site/press-tsentr/page40/"
+  },
+  {
+    "method": "get",
+    "page": "https://xn--80aafaxhj3c.xn--p1ai/"
+  },
+  {
+    "method": "get",
+    "page": "https://xn--80aafaxhj3c.xn--p1ai/product/apply_to_veb?utm_campaign=finansirovnie&utm_medium=button&utm_source=webrf&form_code=apply_to_veb_form_v10&product_code=apply_to_veb"
+  },
+  {
+    "method": "get",
+    "page": "https://xn--80aafaxhj3c.xn--p1ai/wizard?category=small_business&need=working_capital_replenishment&sort=bank_rate%2CASC&tool=financing"
+  },
+  {
+    "method": "get",
+    "page": "https://xn--80aafaxhj3c.xn--p1ai/wizard?amount=1000000&category=small_business&need=working_capital_replenishment&sort=bank_rate%2CASC&tool=financing"
+  },
+  {
+    "method": "get",
+    "page": "https://xn--80aafaxhj3c.xn--p1ai/business_credits/refinansirovanie?amount=500000&sort=category%2CDESC"
+  },
+  {
+    "method": "get",
+    "page": "https://fasie.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://vebinfra.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://vebinfra.ru/news/?PAGEN_1=15"
+  },
+  {
+    "method": "get",
+    "page": "https://xn--90ab5f.xn--p1ai/"
+  },
+  {
+    "method": "get",
+    "page": "https://xn--l1afq9a.xn--80aafaxhj3c.xn--p1ai/"
+  },
+  {
+    "method": "get",
+    "page": "https://progorod.veb.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://progorod.veb.ru/projects/"
+  },
+  {
+    "method": "get",
+    "page": "https://online.fasie.ru/m/?ReturnUrl=%2F"
+  },
+  {
+    "method": "get",
+    "page": "http://bsr1.sudrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://www.exportcenter.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/lk/practice/acts"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/lk/practice/acts?&numberExact=off&number=111&actDateExact=off"
+  },
+  {
+    "method": "get",
+    "page": "http://vsrf.ru/stor_pdf_ec.php?id=2127020"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/lk/practice/cases"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/lk/practice/cases?&registerDateExact=off&considerationDateExact=off&numberExact=off&number=222"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/lk/practice/appeals"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/lk/practice/appeals?&registerDateExact=off&considerationDateExact=off&numberExact=off&number=333"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/lk/practice/hearings"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/lk/practice/hearings?&numberExact=off&number=444&eventDateExact=true"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/lk/calculator/list"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/press_center/news"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/press_center/news/?keyword=%D0%B4%D0%B5%D0%BB%D0%BE&before=10"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/press_center/mass_media"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/press_center/mass_media/?keyword=%D0%B2%D1%81&before=24"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/documents/own"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/documents/own/?category=resolutions_plenum_supreme_court_russian&before=65"
+  },
+  {
+    "method": "get",
+    "page": "https://vsrf.ru/appeals/requests/activity"
+  },
+  {
+    "method": "get",
+    "page": "https://data.vsrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://data.vsrf.ru/cas/login?service=http%3A%2F%2Fdata.vsrf.ru%2Faccounts%2Flogin%3Fnext%3D%252F"
+  },
+  {
+    "method": "get",
+    "page": "https://data.vsrf.ru/signup/register/reactivate/"
+  },
+  {
+    "method": "get",
+    "page": "https://data.vsrf.ru/signup/password/reset/"
+  },
+  {
+    "method": "get",
+    "page": "https://forum.vsrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://forum.vsrf.ru/search/forum/topics/"
+  },
+  {
+    "method": "get",
+    "page": "https://forum.vsrf.ru/search/forum/posts/?q=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%BE%D0%B6%D0%B5%21"
+  },
+  {
+    "method": "get",
+    "page": "https://priem.rsuj.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://fpk.rsuj.ru/login/index.php"
+  },
+  {
+    "method": "get",
+    "page": "https://fpk.rsuj.ru/login/forgot_password.php"
+  },
+  {
+    "method": "get",
+    "page": "http://www.ksrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://vestnik.ksrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://scpublish.ksrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://decision.ksrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://petition.ksrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://pravdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://fasvvo.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://fasvso.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://fasdvo.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://faszso.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://fasmo.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://faspo.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://fassko.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://fasuo.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://fasco.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://3aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://4aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://5aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://6aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://7aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://8aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://9aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://10aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://11aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://12aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://13aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://14aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://15aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://16aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://17aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://18aas.arbitr.ru"
+  },
+  {
+    "method": "get",
+    "page": "https://19aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://20aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://21aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://altai-krai.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://amuras.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://arhangelsk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://astrahan.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://belgorod.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://bryansk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://vladimir.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://volgograd.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://vologda.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://voronej.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://msk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://spb.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://sevastopol.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://eao.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://chita.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://ivanovo.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://askb.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://kaliningrad.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://kaluga.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://kamchatka.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://askchr.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://kemerovo.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://kirov.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://kostroma.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://krasnodar.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://krasnoyarsk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://kurgan.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://kursk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://lipetsk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://magadan.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://asmo.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://murmansk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://nnov.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://novgorod.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://novosib.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://omsk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://orenburg.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://orel.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://penza.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://perm.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://primkray.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://pskov.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://www.perm.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://arhangelsk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://adyg.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://altai.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://ufa.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://buryatia.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://mahachkala.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://ingushetia.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://kalmyk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://karelia.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://komi.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://crimea.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://mari-el.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://asrm.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://yakutsk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://alania.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://tatarstan.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://tyva.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://khakasia.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://rostov.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://ryazan.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://samara.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://saratov.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://sakhalin.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://ekaterinburg.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://smolensk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://stavropol.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://tambov.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://tver.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://tomsk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://tula.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://tumen.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://udmurtiya.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://ulyanovsk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://khabarovsk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://hmao.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://chel.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://chechnya.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://chuvashia.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://chukotka.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://yamal.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://yaroslavl.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://ipc.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://medias.ksrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://supcourt-dpr.su/"
+  },
+  {
+    "method": "get",
+    "page": "https://rsuj.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://dnrsovet.su/"
+  },
+  {
+    "method": "get",
+    "page": "https://irkutsk.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://irkutsk.arbitr.ru/?s=%D0%B0%D0%BA%D1%82"
+  },
+  {
+    "method": "get",
+    "page": "http://ksmail.ksrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://media.ksrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://media3.ksrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://media2.ksrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://govdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://1aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://1aas.arbitr.ru/search/?action=index&search_query=%D0%B0%D0%BA%D1%82%D1%8B&curPos=140"
+  },
+  {
+    "method": "get",
+    "page": "http://www.vkks.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://www.cdep.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://vekrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://ssrf.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://fasszo.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://fasszo.arbitr.ru/cases/ctimetable?tid=0&filter=true&college=&datefrom=16.01.1900&dateto=16.01.2023"
+  },
+  {
+    "method": "get",
+    "page": "http://fasszo.arbitr.ru/cases/ccaselist?searchtype=dealinfo&prefix=%D0%9056&numdeal=&yeardeal=&fld_12=%D1%88%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE&fld_14="
+  },
+  {
+    "method": "get",
+    "page": "https://2aas.arbitr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://2aas.arbitr.ru/search/node/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81?page=3"
+  },
+  {
+    "method": "get",
+    "page": "https://2aas.arbitr.ru/node?page=362"
+  },
+  {
+    "method": "get",
+    "page": "https://2aas.arbitr.ru/images/instr-deloproizvodstvo-2021.pdf"
+  },
+  {
+    "method": "get",
+    "page": "https://mer.govdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://xn--h1aheeehel.xn--p1acf/"
+  },
+  {
+    "method": "get",
+    "page": "https://mgb-dnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://mincult.govdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://mondnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://donmintrans.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://giapkdnr.msdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://mid-dnr.su/"
+  },
+  {
+    "method": "get",
+    "page": "http://agroprom.minsvyazdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://mvddnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://mdsdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://mpt-dnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://minstroy-dnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://goskomzemdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://postdonbass.com/"
+  },
+  {
+    "method": "get",
+    "page": "http://mcxdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://mpt-dnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://xn--b1akbpgy3fwa.xn--p1acf/"
+  },
+  {
+    "method": "get",
+    "page": "https://torez24.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://doc.minsvyazdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://xn--b1akbpgy3fwa.xn--p1acf/"
+  },
+  {
+    "method": "get",
+    "page": "https://mtspdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://mzdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://rgup.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://rgup.ru/search"
+  },
+  {
+    "method": "get",
+    "page": "https://minfindnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://minjust-dnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://mininfodnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://crb-dnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://gosstat-dnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://rcz-dnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://denis-pushilin.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://phoenix-dnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://rst-dnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://rprec.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://donmarkets.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://mininfodnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://rams.dnronline.su/"
+  },
+  {
+    "method": "get",
+    "page": "http://www.mid-dnr.su/"
+  },
+  {
+    "method": "get",
+    "page": "https://ombudsman-dnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://amvrosievka-gorsovet.umi.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://fgi.dnronline.su/"
+  },
+  {
+    "method": "get",
+    "page": "https://dnrailway.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://doncsm.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://www.vodadonbassa.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://dokuchaevskga.ucoz.org/"
+  },
+  {
+    "method": "get",
+    "page": "http://novoaz-adm.3dn.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://gsdsd-dnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://tk-union.tv/"
+  },
+  {
+    "method": "get",
+    "page": "http://fsdnr.com/"
+  },
+  {
+    "method": "get",
+    "page": "http://econri.org/"
+  },
+  {
+    "method": "get",
+    "page": "http://www.shahtersk.org/"
+  },
+  {
+    "method": "get",
+    "page": "https://gisnpa-dnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://dnr-live.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://gorlovka-tv.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://gorod-donetsk.com/"
+  },
+  {
+    "method": "get",
+    "page": "http://starobeshevo.usite.pro/"
+  },
+  {
+    "method": "get",
+    "page": "https://izpp.govdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://admin-gorlovka.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://ggudoad-dnr.ugletele.com/"
+  },
+  {
+    "method": "get",
+    "page": "https://kirovskoe.ugletele.com/"
+  },
+  {
+    "method": "get",
+    "page": "http://khartsyzsk.ugletele.com/"
+  },
+  {
+    "method": "get",
+    "page": "http://oddr.info/"
+  },
+  {
+    "method": "get",
+    "page": "https://stream.live.dfw.ru/player/video-js-7.7.6/video.min.js"
+  },
+  {
+    "method": "get",
+    "page": "https://www.enakievo.org/"
+  },
+  {
+    "method": "get",
+    "page": "http://dnmchs.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://debalcevo-dnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://glavstat.govdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://mintek-dnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://gkgtn.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://ritualdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://republic-tv.ru/"
+  },
+  {
+    "method": "get",
+    "page": "http://fpdnr.ru/"
+  },
+  {
+    "method": "get",
+    "page": "https://sum1rst.roscongress.org/icrobjects/login/user-info"
+  }
+]
